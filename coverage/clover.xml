@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1739775882136" clover="3.2.0">
+  <project timestamp="1739775882136" name="All files">
+    <metrics statements="82" coveredstatements="43" conditionals="35" coveredconditionals="22" methods="21" coveredmethods="10" elements="138" coveredelements="75" complexity="0" loc="82" ncloc="82" packages="1" files="1" classes="1"/>
+    <file name="logger.ts" path="/Users/khr/workSpace/codeSpace/node/node_log/src/logger.ts">
+      <metrics statements="82" coveredstatements="43" conditionals="35" coveredconditionals="22" methods="21" coveredmethods="10"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="28" count="0" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="65" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="69" count="1" type="stmt"/>
+      <line num="72" count="1" type="stmt"/>
+      <line num="112" count="0" type="stmt"/>
+      <line num="113" count="0" type="stmt"/>
+      <line num="114" count="0" type="stmt"/>
+      <line num="115" count="0" type="stmt"/>
+      <line num="116" count="0" type="stmt"/>
+      <line num="118" count="0" type="stmt"/>
+      <line num="119" count="0" type="stmt"/>
+      <line num="127" count="2" type="stmt"/>
+      <line num="145" count="2" type="stmt"/>
+      <line num="152" count="2" type="stmt"/>
+      <line num="159" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="161" count="0" type="stmt"/>
+      <line num="163" count="0" type="stmt"/>
+      <line num="164" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="165" count="0" type="stmt"/>
+      <line num="167" count="0" type="stmt"/>
+      <line num="168" count="0" type="stmt"/>
+      <line num="169" count="0" type="stmt"/>
+      <line num="171" count="0" type="stmt"/>
+      <line num="179" count="0" type="stmt"/>
+      <line num="182" count="0" type="stmt"/>
+      <line num="204" count="2" type="stmt"/>
+      <line num="205" count="2" type="stmt"/>
+      <line num="207" count="2" type="stmt"/>
+      <line num="208" count="4" type="stmt"/>
+      <line num="210" count="4" type="stmt"/>
+      <line num="211" count="8" type="cond" truecount="3" falsecount="0"/>
+      <line num="212" count="2" type="stmt"/>
+      <line num="213" count="2" type="stmt"/>
+      <line num="217" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="220" count="2" type="stmt"/>
+      <line num="228" count="2" type="stmt"/>
+      <line num="229" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="230" count="2" type="stmt"/>
+      <line num="232" count="2" type="stmt"/>
+      <line num="233" count="2" type="cond" truecount="2" falsecount="3"/>
+      <line num="235" count="1" type="stmt"/>
+      <line num="236" count="1" type="stmt"/>
+      <line num="238" count="0" type="stmt"/>
+      <line num="239" count="0" type="stmt"/>
+      <line num="241" count="1" type="stmt"/>
+      <line num="242" count="1" type="stmt"/>
+      <line num="244" count="0" type="stmt"/>
+      <line num="245" count="0" type="stmt"/>
+      <line num="247" count="0" type="stmt"/>
+      <line num="248" count="0" type="stmt"/>
+      <line num="258" count="1" type="stmt"/>
+      <line num="265" count="0" type="stmt"/>
+      <line num="273" count="1" type="stmt"/>
+      <line num="292" count="0" type="stmt"/>
+      <line num="304" count="0" type="stmt"/>
+      <line num="314" count="1" type="stmt"/>
+      <line num="322" count="1" type="stmt"/>
+      <line num="327" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="328" count="0" type="stmt"/>
+      <line num="331" count="0" type="stmt"/>
+      <line num="334" count="0" type="stmt"/>
+      <line num="339" count="0" type="stmt"/>
+      <line num="346" count="1" type="stmt"/>
+      <line num="347" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="348" count="0" type="stmt"/>
+      <line num="352" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
